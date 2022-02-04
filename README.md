@@ -28,7 +28,7 @@ Cadastrar tarefa e , caso ache necessário, fazer uma descrição.
  
  
 ## Links
-
+https://github.com/lucasvpessoafranca/crud-node
  
  
 ## Versão
@@ -40,5 +40,5 @@ Cadastrar tarefa e , caso ache necessário, fazer uma descrição.
  
 * **Lucas França**: @lucasvpessoafranca
  
-Por favor, me siga no github.
+ me siga no github.
 Agradeço a sua visita :)
