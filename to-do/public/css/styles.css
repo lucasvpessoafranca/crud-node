@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+.header {
+  background: #050a30;
+  color: #fff;
+}
+
+.header a {
+  color: #fff;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px 20px;
+}
+.container #logo {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: radial-gradient(#050a30, #fff);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container nav ul {
+  display: flex;
+  gap: 20px;
+}
+.container ul a {
+  display: block;
+  font-size: 1.2rem;
+  border: 1px solid inherit;
+  padding: 20px;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+
+.container ul a:hover {
+  color: #ddd;
+  background: #2e8bc0;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+/*  TASKS ADD */
+.container-form {
+  max-width: 500px;
+  margin: 0 auto;
+  width: 100%;
+  margin-top: 2rem;
+}
+
+.form-control {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.form-control label {
+  font-weight: bold;
+  margin-bottom: 0.4rem;
+}
+#description,
+.form-control input {
+  padding: 7px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.container-form input[type='submit'] {
+  background: #050a30;
+  color: #fff;
+  padding: 0.7rem 1.5rem;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.container-form input[type='submit']:hover {
+  background: #2e8bc0;
+}
+.task-flex {
+  display: flex;
+}
+
+.task-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.task-flex {
+  padding: 20px;
+  justify-content: space-between;
+  display: flex;
+}
+
+.container-task {
+  max-width: 450px;
+  margin: 0 auto;
+}
+.task-list {
+  margin-top: 2rem;
+}
+
+.task-list li {
+  padding: 0.5rem;
+  margin-bottom: 1.2rem;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #999;
+  padding: 10px 20px;
+}
+
+.task-list .title {
+  font-weight: bold;
+  color: #050a30;
+  transition: 0.5s;
+  font-size: 1.2rem;
+}
+
+.task-list .title:hover {
+  color: #2e8bc0;
+}
+
+.actions {
+  display: flex;
+}
+
+.actions i {
+  font-size: 1.5rem;
+  margin-right: 0.7rem;
+  color: #333;
+}
+
+.actions i:hover {
+  color: #2e8bc0;
+}
+.actions button {
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+.done {
+  text-decoration: line-through;
+  color: #ccc;
+}
