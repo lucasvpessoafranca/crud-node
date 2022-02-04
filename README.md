@@ -1,7 +1,7 @@
 # TO-DO
 To-do feito em Node + MYSQL
 
-![Tela inicial ](https://github.com/lucasvpessoafranca/lista_tarefas/blob/main/lista_tarefa.png)
+![Tela inicial ](https://github.com/lucasvpessoafranca/crud-node/blob/main/task1.png)
 
 ![resultado](https://github.com/lucasvpessoafranca/lista_tarefas/blob/main/lista_tarefa_2.png)
 
