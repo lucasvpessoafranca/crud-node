@@ -3,9 +3,10 @@ To-do feito em Node + MYSQL
 
 ![Tela inicial ](https://github.com/lucasvpessoafranca/crud-node/blob/main/task1.png)
 
-![resultado](https://github.com/lucasvpessoafranca/lista_tarefas/blob/main/lista_tarefa_2.png)
+![resultado](https://github.com/lucasvpessoafranca/crud-node/blob/main/task2.png)
 
-![resultado](https://github.com/lucasvpessoafranca/lista_tarefas/blob/main/to-do.png)
+![resultado](https://github.com/lucasvpessoafranca/crud-node/blob/main/task3.png)
+![resultado](https://github.com/lucasvpessoafranca/crud-node/blob/main/task4.png)
  
  
  
